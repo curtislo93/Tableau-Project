@@ -1,4 +1,4 @@
-# Final-Project-Tableau
+# Data Visualization with Tableau (Project)
 
 ## Project/Goals
 The goal is to create visualizations based on data from the Canadian Open Data portal thoughout various years, such as weekly earnings, housing constructions, house prices, housing price index, office real estate index and consumer index.
